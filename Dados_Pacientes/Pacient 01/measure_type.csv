@@ -1,0 +1,8 @@
+﻿measure_type_id;name;type;unity;code;timestamp
+1;Frequência cardíaca;cardiovascular;BPM;BPM;
+2;Saturação de oxigênio;cardiovascular;Po2;P02;
+3;Glicemia;diabetes;mg/dL;GDS;
+4;Pressão arterial;cardiovascular;mmHg;MMHG;
+5;Nivel de Stress;neurologico;%;S%;
+6;Temperatura Corporal;cardiovascular;Celsius;C;
+7;Glândula sudorípara;neurologico;ohm;GSR;
